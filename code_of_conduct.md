@@ -1,10 +1,10 @@
-## BioData.pt Community Tools - Contributor Code of Conduct
+## BioData.pt GitHub Contributor Code of Conduct
 
 This Code of Conduct has been partially adapted from BioData.pt's Code of Conduct for Events, itself adapted from the ELIXIR Hub Code of Conduct for Events, as well as dev.to.
 
 ## Applicability
 
-All contributors (including project maintainers, non-BioData.pt code contributors and bug report submitters, etc.) to the development of BioData.pt Community Tools (such as Biome-Shiny, D-Cellerate and D-Fferential, as well as others) are expected to abide by the Code of Conduct, both online and during in-person events related to the usage of these tools, such as courses, presentations or seminars.
+All contributors (including project maintainers, non-BioData.pt code contributors and bug report submitters, etc.) to the development of BioData.pt tools and materials on GitHub are expected to abide by this Code of Conduct, both online and during in-person events related to the usage of these tools and materials, such as courses, presentations or seminars.
 
 ## Our values: a place to feel respected, a place to feel safe
 
@@ -12,7 +12,7 @@ The opportunity to bring together differing perspectives is one of BioData.pt’
 
 ## Expected behaviour
 
-All contributors to the development of BioData.pt Community Tools are expected to display behaviour that encourages and contributes to the creation of a positive environment. This includes:
+All contributors to the development of BioData.pt GitHub content are expected to display behaviour that encourages and contributes to the creation of a positive environment. This includes:
 
 - Using welcoming and inclusive language;
 - Being respectful of different viewpoints and experiences;
